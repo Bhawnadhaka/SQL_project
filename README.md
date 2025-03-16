@@ -175,6 +175,5 @@ SELECT * FROM swiggy_table;
 
 ---
 
-## 🎉 Conclusion
-Your Swiggy dataset is now **spotless, normalized, and analysis-ready** — perfect for insights or machine learning projects. Happy querying! 🚀✨
+
 
