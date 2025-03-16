@@ -1,7 +1,7 @@
 # 🍽️ Swiggy Data Cleaning and Transformation SQL Queries
 
 ## 🎯 Overview
-This README showcases a complete SQL workflow to clean and transform a Swiggy dataset, ensuring data consistency, accuracy, and readiness for analysis. The dataset includes restaurant details like hotel names, ratings, delivery times, food types, locations, and offers.
+This project showcases a complete SQL workflow to clean and transform a Swiggy dataset, ensuring data consistency, accuracy, and readiness for analysis. The dataset includes restaurant details like hotel names, ratings, delivery times, food types, locations, and offers.
 
 ---
 
